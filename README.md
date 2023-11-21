@@ -1,3 +1,6 @@
+![Alt](https://repobeats.axiom.co/api/embed/d09573c350a3227825be39df4ba31e3437a00c00.svg "Repobeats analytics image")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
